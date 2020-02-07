@@ -1,2 +1,2 @@
 # The-Complete-Android-Oreo-Developer-Course
- Android course I'm taking at Udemy - Still in progress
+ Repository to store the codes of the apps I made throughout this course on Udemy.
